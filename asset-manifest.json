@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/okin-assignment/static/css/main.ed6255e6.css",
+    "main.js": "/okin-assignment/static/js/main.70cdc5e9.js",
+    "static/js/787.5ee1bcb0.chunk.js": "/okin-assignment/static/js/787.5ee1bcb0.chunk.js",
+    "index.html": "/okin-assignment/index.html",
+    "main.ed6255e6.css.map": "/okin-assignment/static/css/main.ed6255e6.css.map",
+    "main.70cdc5e9.js.map": "/okin-assignment/static/js/main.70cdc5e9.js.map",
+    "787.5ee1bcb0.chunk.js.map": "/okin-assignment/static/js/787.5ee1bcb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed6255e6.css",
+    "static/js/main.70cdc5e9.js"
+  ]
+}
